@@ -1,0 +1,7 @@
+{
+  "name": "Codenames",
+  "id": "837804496927006007",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
